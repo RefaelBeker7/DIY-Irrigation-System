@@ -17,8 +17,10 @@ This application controls the irrigation system by selecting a tap and then the 
   <img src="https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/App2.gif" 
        width="200" high="50" title="gifApp">
 </p>
+
 # Arduino Code
-```c
+
+```C
 /* Date: 18/4/19 */
 #include <virtuabotixRTC.h>
 #include <TM1637Display.h>
