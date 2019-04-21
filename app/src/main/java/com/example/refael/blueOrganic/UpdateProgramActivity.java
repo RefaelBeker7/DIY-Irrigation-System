@@ -16,11 +16,7 @@ import android.widget.Toast;
 
 import com.example.refael.blueOrganic.Utils.DatabaseHelper;
 import com.example.refael.blueOrganic.Utils.TimePickerFragment;
-import com.example.refael.blueOrganic.R;
-import com.google.android.gms.common.util.ArrayUtils;
-
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class UpdateProgramActivity extends AppCompatActivity implements TimePickerDialog.OnTimeSetListener {
     public static String STR_Separator = " , ";
