@@ -16,6 +16,7 @@ This application controls the irrigation system by selecting a tap and then the 
 
 **Built With**
 > Android Studio - For the development of the Android App.
+
 > Arduino IDE - To work with the Microcontroller.
 
 **Authors**
