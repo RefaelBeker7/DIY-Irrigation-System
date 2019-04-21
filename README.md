@@ -10,9 +10,12 @@ This application controls the irrigation system by selecting a tap and then the 
 **Examples**
 
 <p align="center">
-  <img src="https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/App1.jpeg" width="350" title="The App">
-  <img src="https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/AppUp.gif" width="350" title="gif App">
-  <img src="https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/App2.gif" width="350" title="gifApp">
+  <img src="https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/AppUp.gif" 
+       width="200" high="50" title="gif App">
+    <img src="https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/App1.jpeg" 
+       width="170" high="50" title="The App">
+  <img src="https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/App2.gif" 
+       width="200" high="50" title="gifApp">
 </p>
 
 
