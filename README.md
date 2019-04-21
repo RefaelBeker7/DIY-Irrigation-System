@@ -8,7 +8,7 @@ This application controls the irrigation system by selecting a tap and then the 
 
 **Examples**
 ![alt text](https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/WhatsApp%20Image%202019-04-21%20at%2016.56.23.jpeg)
-![Alt Text](https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/WhatsApp%20Video%202019-04-21%20at%2016.52.01.mp4)
+![Alt Text](https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/example.mp4)
 
 **Built With**
 Android Studio - For the development of the Android App.
