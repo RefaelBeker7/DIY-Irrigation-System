@@ -15,9 +15,9 @@ This application controls the irrigation system by selecting a tap and then the 
 ![Alt Text](https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/example.mp4)
 
 **Built With**
-> Android Studio - For the development of the Android App.
+- Android Studio - For the development of the Android App.
 
-> Arduino IDE - To work with the Microcontroller.
+- Arduino IDE - To work with the Microcontroller.
 
 **Authors**
 @ Refael Beker :+1: Software Engineer :shipit:
