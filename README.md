@@ -11,8 +11,10 @@ This application controls the irrigation system by selecting a tap and then the 
 
 <p align="center">
   <img src="https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/App1.jpeg" width="350" title="The App">
+  <img src="https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/AppUp.gif" width="350" title="The App">
+  <img src="https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/App2.gif" width="350" title="The App">
 </p>
-![Alt Text](https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/example.mp4)
+![Alt Text](https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/AppUp.gif)
 
 
 **Built With**
