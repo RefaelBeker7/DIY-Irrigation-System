@@ -1,7 +1,7 @@
 # wateringApp - BlueOrganic
 
 
-* > An irrigation system that uses the Android app and connects by Bluetooth to the Arduino.*
+> An irrigation system that uses the Android app and connects by Bluetooth to the Arduino.
 
 This application controls the irrigation system by selecting a tap and then the user must program each tap separately according to the hours and days it needs.
 
