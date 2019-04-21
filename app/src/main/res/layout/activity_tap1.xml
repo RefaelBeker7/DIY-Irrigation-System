@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.refael.blueOrganic.Tap1"
+    android:orientation="vertical"
+    android:weightSum="5"
+    tools:layout_editor_absoluteX="0dp"
+    tools:layout_editor_absoluteY="0dp"
+    android:background="@drawable/programstap"
+    >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:background="#00000000"
+            android:orientation="vertical">
+
+            <Switch
+                android:id="@+id/switch_hygrometer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:switchMinWidth="56dp"
+                android:textSize="20dp"
+                android:text="Hygrometer :      "
+                android:layout_gravity="center"
+                android:layout_margin="15dp"
+                android:textColor="@color/Black"
+                android:textStyle="bold"
+                android:textOff="OFF"
+                android:textOn ="ON"/>
+            <Switch
+                android:id="@+id/switch_OpenTap"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:switchMinWidth="56dp"
+                android:textSize="20dp"
+                android:text="Open Tap :      "
+                android:layout_gravity="center"
+                android:layout_margin="15dp"
+                android:textColor="@color/Black"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/Transfer_programs"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Transfer Programs"
+                android:textColor="#111"
+                android:textSize="15dp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_weight="4"
+            android:background="#30000000"
+            android:orientation="vertical">
+
+            <ListView
+                android:id="@+id/listProgram"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <ListView
+                android:id="@+id/listAllProgram"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text=""
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="76dp"
+        android:layout_weight="0.5"
+        android:background="#00000000"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnAddNewProgram"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Add New Program"
+            android:textColor="#111"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnConnect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Conncet To Device"
+            android:textColor="#111"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

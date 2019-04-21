@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\pc\\AndroidStudioProjects\\blueOrganic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-1\\files-1.1\\bluetoothspp-1.0.0.aar\\136ca1e5d223695016f0db9ecdf98b83\\res\\values-sw720dp-land-v13\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "239,292",
+                        "endColumns": "52,54",
+                        "endOffsets": "287,342"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,54",
+                        "endOffsets": "103,158"
+                    }
+                }
+            ]
+        }
+    ]
+}

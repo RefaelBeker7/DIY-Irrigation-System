@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item app:showAsAction="always"
+        android:title="Options">
+        <menu>
+            <item
+                android:id="@+id/back_btn"
+                android:title="Back"
+                app:showAsAction="never"
+                android:icon="@drawable/icon_back"/>
+
+            <item android:id="@+id/profile_menu_btn"
+                android:title="My Account"
+                android:icon="@drawable/icon_my_acount"
+                app:showAsAction="never"/>
+        </menu>
+    </item>
+</menu>

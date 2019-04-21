@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<item app:showAsAction="always"
+    android:title="Options">
+    <menu>
+        <item
+            android:id="@+id/about_btntn"
+            android:title="About"
+            app:showAsAction="never"
+            android:icon="@drawable/icon_about"/>
+
+        <item
+            android:id="@+id/Report_btn"
+            android:title="Report"
+            app:showAsAction="never"
+            android:icon="@drawable/icon_report"/>
+
+        <item android:id="@+id/profile_menu_btn"
+            android:title="My Account"
+            android:icon="@drawable/icon_my_acount"
+            app:showAsAction="never"/>
+
+        <item
+            android:id="@+id/sing_out_menu_btn"
+            android:title="Log Out"
+            android:icon="@drawable/icon_log_out"
+            app:showAsAction="never"/>
+    </menu>
+</item>
+</menu>
