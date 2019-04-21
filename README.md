@@ -1,18 +1,20 @@
 # wateringApp - BlueOrganic
 
 
-*An irrigation system that uses the Android app and connects by Bluetooth to the Arduino.*
+*>An irrigation system that uses the Android app and connects by Bluetooth to the Arduino.*
 
 This application controls the irrigation system by selecting a tap and then the user must program each tap separately according to the hours and days it needs.
-![alt text](https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/WhatsApp%20Image%202019-04-21%20at%2016.56.47.jpeg)
+![alt text](https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/App_Arduino.jpeg)
 
 **Examples**
-![alt text](https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/WhatsApp%20Image%202019-04-21%20at%2016.56.23.jpeg)
-![Alt Text](https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/WhatsApp%20Video%202019-04-21%20at%2016.52.01.mp4)
+<p align="center">
+  <img src="https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/App1.jpeg" width="350" title="The App">
+</p>
+![Alt Text](https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/example.mp4)
 
 **Built With**
-Android Studio - For the development of the Android App.
-Arduino IDE - To work with the Microcontroller.
+> Android Studio - For the development of the Android App.
+> Arduino IDE - To work with the Microcontroller.
 
 **Authors**
 @ Refael Beker :+1: Software Engineer :shipit:
