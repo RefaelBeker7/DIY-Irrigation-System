@@ -1,4 +1,4 @@
-#Fri Apr 19 16:50:58 IDT 2019
+#Tue Apr 23 16:40:51 IDT 2019
 base.0=C\:\\Users\\pc\\AndroidStudioProjects\\blueOrganic\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
 path.0=classes.dex
 renamed.0=classes.dex

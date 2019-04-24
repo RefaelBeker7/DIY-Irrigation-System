@@ -103,10 +103,9 @@ public class Tap1 extends AppCompatActivity {
             public void onClick(View view) {
                 /* Arduino json send.. -- JSONArray jsonArray = new JSONArray().put();--*/
 
-                bluetooth.send(SEND_DATA, true);
+                //bluetooth.send(SEND_DATA, true);
 
-                //String listJSON =  toJSon(theList);
-                bluetooth.send(toGoodJSon(theList), true);
+                bluetooth.send( SEND_DATA + toGoodJSon(theList) + '\n', true);
 
             }
         });

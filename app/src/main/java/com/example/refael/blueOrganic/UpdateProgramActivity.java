@@ -220,13 +220,7 @@ public class UpdateProgramActivity extends AppCompatActivity implements TimePick
     //checked if is a empty choose..
     public boolean checkEmpty(String programNameSQL, Integer StartHour, Integer StartMin, Integer Duration,
                               String days){
-/*
-        if(programNameSQL.isEmpty()){
-            //error name is empty
-            Toast.makeText(this, "You must enter a name of program", Toast.LENGTH_SHORT).show();
-            return true;
-        }
-*/
+
         if(StartHour < 0){
             Toast.makeText(this, "You must enter an Start Hour", Toast.LENGTH_SHORT).show();
             return true;
