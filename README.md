@@ -25,4 +25,4 @@ This application controls the irrigation system by selecting a tap and then the 
 - Arduino IDE - To work with the Microcontroller.
 
 **Authors**
-@ Refael Beker :+1: Software Engineer :shipit:
+@ Refael Beker :shipit: Software Engineer 
