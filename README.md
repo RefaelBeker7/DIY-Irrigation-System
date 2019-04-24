@@ -14,7 +14,7 @@ This application controls the irrigation system by selecting a tap and then the 
        width="200" high="50" title="gif App">
     <img src="https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/App1.jpeg" 
        width="170" high="50" title="The App">
-  <img src="https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/App2.gif" 
+  <img src="https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/opentapgif.gif" 
        width="200" high="50" title="gifApp">
 </p>
 
