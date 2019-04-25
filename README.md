@@ -1,5 +1,5 @@
-# wateringApp - BlueOrganic
-
+# WateringApp - BlueOrganic
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 
 > An irrigation system that uses the Android app and connects by Bluetooth to the Arduino.
 
