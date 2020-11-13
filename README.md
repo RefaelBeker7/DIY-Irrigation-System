@@ -41,7 +41,4 @@ Examples
 Author
 ---
 
-> Refael_Beker :shipit: Software Engineer 
-
-
-[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
+> Refael_Beker :shipit: Software Engineer.
