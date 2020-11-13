@@ -7,7 +7,9 @@ This is an open-source application to water plants automatically. Up to now, the
 
 ![alt text](https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/App_Arduino.jpeg)
 
-# Technology
+Technology
+---
+
 **Software**
 - Android application.
 - Google Firebase.
@@ -23,7 +25,8 @@ This is an open-source application to water plants automatically. Up to now, the
 - Battery 9v.
 - LED - RGB green.
 
-**Examples**
+Examples
+---
 
 <p align="center">
   <img src="https://github.com/RefaelBeker7/wateringApp_finalProject/blob/master/screenshot/AppUp.gif" 
@@ -34,7 +37,9 @@ This is an open-source application to water plants automatically. Up to now, the
        width="200" high="50" title="gifApp">
 </p>
 
-**Author**
+Author
+---
+
 > Refael_Beker :shipit: Software Engineer 
 
 License
