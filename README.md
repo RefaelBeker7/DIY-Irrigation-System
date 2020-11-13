@@ -36,3 +36,8 @@ This is an open-source application to water plants automatically. Up to now, the
 
 **Author**
 > Refael_Beker :shipit: Software Engineer 
+
+License
+---
+
+[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
